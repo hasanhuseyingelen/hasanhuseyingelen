@@ -1,8 +1,8 @@
 <h3 align="center">A passionate frontend developer from World</h3>
 
 - 👋 Hi, I’m @hasanhuseyingelen
-- 👀 I’m interested in Frontend technologies and test automation
-- 👯 I’m looking to collaborate on Javascript, Angular and Test Automation technologies 
+- 👀 I’m interested in Frontend technologies 
+- 👯 I’m looking to collaborate on Javascript, Angular
 - 💬 Ask me about anything
 - 📫 How to reach me: [LinkedIn](https://tr.linkedin.com/in/hasanhuseyingelen)
 
